@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/client-cloting/static/css/main.3f91fab1.css",
-    "main.js": "/client-cloting/static/js/main.5cb55361.js",
-    "static/js/787.ec704a7a.chunk.js": "/client-cloting/static/js/787.ec704a7a.chunk.js",
-    "static/media/brends.mp4": "/client-cloting/static/media/brends.423ae03fd37e5f0baf49.mp4",
-    "static/media/background.jpg": "/client-cloting/static/media/background.d8a749a58211b7ad438d.jpg",
-    "static/media/round-frame-with-tropical-leaves-golden-element-vector-clipart-wedding-invitations_530505-386_adobe_express.png": "/client-cloting/static/media/round-frame-with-tropical-leaves-golden-element-vector-clipart-wedding-invitations_530505-386_adobe_express.f989bb97f3028f4f700a.png",
-    "static/media/PlayfairDisplay-Regular.ttf": "/client-cloting/static/media/PlayfairDisplay-Regular.27705d9c43e8c36b1abd.ttf",
-    "static/media/PlayfairDisplay-MediumItalic.ttf": "/client-cloting/static/media/PlayfairDisplay-MediumItalic.69c89309175b14e01cc3.ttf",
-    "static/media/PlayfairDisplay-Italic.ttf": "/client-cloting/static/media/PlayfairDisplay-Italic.e07c93f2a8635b5cef7b.ttf",
-    "static/media/Raleway-Light.ttf": "/client-cloting/static/media/Raleway-Light.58bcdae09d89ccd8d086.ttf",
-    "static/media/Raleway-Thin.ttf": "/client-cloting/static/media/Raleway-Thin.37b903083fc82c0bdc17.ttf",
-    "static/media/Raleway-ExtraLightItalic.ttf": "/client-cloting/static/media/Raleway-ExtraLightItalic.73a96eeb3d29f3c6a657.ttf",
-    "static/media/Raleway-BoldItalic.ttf": "/client-cloting/static/media/Raleway-BoldItalic.1eebed4b223d1adc34ae.ttf",
-    "static/media/Raleway-MediumItalic.ttf": "/client-cloting/static/media/Raleway-MediumItalic.74d4db62e93d0f988ea3.ttf",
-    "static/media/signature.png": "/client-cloting/static/media/signature.c6f63caa128d72e7db09.png",
-    "static/media/logo.svg": "/client-cloting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/client-cloting/index.html",
-    "main.3f91fab1.css.map": "/client-cloting/static/css/main.3f91fab1.css.map",
-    "main.5cb55361.js.map": "/client-cloting/static/js/main.5cb55361.js.map",
-    "787.ec704a7a.chunk.js.map": "/client-cloting/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/client-clothing/static/css/main.7d1349ff.css",
+    "main.js": "/client-clothing/static/js/main.0b76f21c.js",
+    "static/js/787.ec704a7a.chunk.js": "/client-clothing/static/js/787.ec704a7a.chunk.js",
+    "static/media/brends.mp4": "/client-clothing/static/media/brends.423ae03fd37e5f0baf49.mp4",
+    "static/media/background.jpg": "/client-clothing/static/media/background.d8a749a58211b7ad438d.jpg",
+    "static/media/round-frame-with-tropical-leaves-golden-element-vector-clipart-wedding-invitations_530505-386_adobe_express.png": "/client-clothing/static/media/round-frame-with-tropical-leaves-golden-element-vector-clipart-wedding-invitations_530505-386_adobe_express.f989bb97f3028f4f700a.png",
+    "static/media/PlayfairDisplay-Regular.ttf": "/client-clothing/static/media/PlayfairDisplay-Regular.27705d9c43e8c36b1abd.ttf",
+    "static/media/PlayfairDisplay-MediumItalic.ttf": "/client-clothing/static/media/PlayfairDisplay-MediumItalic.69c89309175b14e01cc3.ttf",
+    "static/media/PlayfairDisplay-Italic.ttf": "/client-clothing/static/media/PlayfairDisplay-Italic.e07c93f2a8635b5cef7b.ttf",
+    "static/media/Raleway-Light.ttf": "/client-clothing/static/media/Raleway-Light.58bcdae09d89ccd8d086.ttf",
+    "static/media/Raleway-Thin.ttf": "/client-clothing/static/media/Raleway-Thin.37b903083fc82c0bdc17.ttf",
+    "static/media/Raleway-ExtraLightItalic.ttf": "/client-clothing/static/media/Raleway-ExtraLightItalic.73a96eeb3d29f3c6a657.ttf",
+    "static/media/Raleway-BoldItalic.ttf": "/client-clothing/static/media/Raleway-BoldItalic.1eebed4b223d1adc34ae.ttf",
+    "static/media/Raleway-MediumItalic.ttf": "/client-clothing/static/media/Raleway-MediumItalic.74d4db62e93d0f988ea3.ttf",
+    "static/media/signature.png": "/client-clothing/static/media/signature.c6f63caa128d72e7db09.png",
+    "static/media/logo.svg": "/client-clothing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/client-clothing/index.html",
+    "main.7d1349ff.css.map": "/client-clothing/static/css/main.7d1349ff.css.map",
+    "main.0b76f21c.js.map": "/client-clothing/static/js/main.0b76f21c.js.map",
+    "787.ec704a7a.chunk.js.map": "/client-clothing/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f91fab1.css",
-    "static/js/main.5cb55361.js"
+    "static/css/main.7d1349ff.css",
+    "static/js/main.0b76f21c.js"
   ]
 }
